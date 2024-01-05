@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tonylinchao/vue-speech-streaming](https://github.com/tonylinchao/vue-speech-streaming)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|49<br/>Tools used|12/29/23 <br/>Report generated|
+|51<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -217,9 +217,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (32)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (34)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (32)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (34)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -229,8 +229,10 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-env](https://www.npmjs.com/babel-preset-env)|v1.3.2|10/08/17|aofdev |MIT|N/A|
 |[babel-preset-stage-2](https://www.npmjs.com/babel-preset-stage-2)|v6.22.0|10/08/17|aofdev |MIT|N/A|
 |[babel-register](https://www.npmjs.com/babel-register)|v6.22.0|10/08/17|aofdev |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.0.1|10/08/17|aofdev |MIT|N/A|
 |[connect-history-api-fallback](https://www.npmjs.com/connect-history-api-fallback)|v1.3.0|10/08/17|aofdev |MIT|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v4.0.1|10/08/17|aofdev |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v3.10.0|10/08/17|aofdev |MIT|N/A|
 |[eventsource-polyfill](https://www.npmjs.com/eventsource-polyfill)|v0.9.6|10/08/17|aofdev |MIT|N/A|
 |[express](https://www.npmjs.com/express)|v4.14.1|10/08/17|aofdev |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
 |[extract-text-webpack-plugin](https://www.npmjs.com/extract-text-webpack-plugin)|v2.0.0|10/08/17|aofdev |MIT|N/A|
